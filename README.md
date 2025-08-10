@@ -12,7 +12,7 @@ A modern, responsive URL shortener built with Node.js, Express, and MongoDB.
 - 📱 **Mobile Responsive** - Works perfectly on all devices
 
 ## Live Demo Access
-**Try the app live here:** [url_shortner_app](https://url-shortener-app-fawn.vercel.app/)
+**Try the app live here:** [url_shortener_app](https://url-shortener-app-fawn.vercel.app/)
 
 ## Quick Start
 
